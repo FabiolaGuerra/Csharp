@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|solutionrelative:poo-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|c:\\users\\guerr\\csharp\\poo-ex1\\poo-ex1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|solutionrelative:poo-ex1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|c:\\users\\guerr\\csharp\\poo-ex1\\poo-ex1\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|solutionrelative:poo-ex1\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|c:\\users\\guerr\\csharp\\poo-ex1\\poo-ex1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|solutionrelative:poo-ex1\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|c:\\users\\guerr\\csharp\\poo-ex1\\poo-ex1\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2E8941-D901-445D-BB10-2BB0A17580F8}|POO-EX1\\POO-EX1.csproj|solutionrelative:poo-ex1\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Pedido.cs",
-              "RelativeDocumentMoniker": "POO-EX1\\Pedido.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Pedido.cs",
-              "RelativeToolTip": "POO-EX1\\Pedido.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Operacoes.cs",
+              "RelativeDocumentMoniker": "POO-EX1\\Operacoes.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Operacoes.cs",
+              "RelativeToolTip": "POO-EX1\\Operacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:22:14.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Produto.cs",
-              "RelativeDocumentMoniker": "POO-EX1\\Produto.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Produto.cs",
-              "RelativeToolTip": "POO-EX1\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:21:55.587Z",
+              "WhenOpened": "2025-03-12T21:44:11.399Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -58,9 +50,36 @@
               "RelativeDocumentMoniker": "POO-EX1\\Program.cs",
               "ToolTip": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Program.cs",
               "RelativeToolTip": "POO-EX1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T12:18:17.227Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Pedido.cs",
+              "RelativeDocumentMoniker": "POO-EX1\\Pedido.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Pedido.cs",
+              "RelativeToolTip": "POO-EX1\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:22:14.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Produto.cs",
+              "RelativeDocumentMoniker": "POO-EX1\\Produto.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO-EX1\\POO-EX1\\Produto.cs",
+              "RelativeToolTip": "POO-EX1\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:21:55.587Z",
               "EditorCaption": ""
             }
           ]

@@ -22,9 +22,9 @@ namespace POO_EX1
 
         }
 
-        public void Print()
+        public void ExbirItem()
         {
-            Console.WriteLine("Pedido # " + NumeroPedido);
+            
             foreach (var item in itens)
             {
                 Console.WriteLine("Produto: " + item.Nome + " Preço: " + item.Preco);
