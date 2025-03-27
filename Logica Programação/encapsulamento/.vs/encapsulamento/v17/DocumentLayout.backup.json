@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guerr\\Csharp\\encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7AEDD-1971-46CE-AE0E-16F7D4F379E9}|encapsulamento\\encapsulamento.csproj|c:\\users\\guerr\\csharp\\encapsulamento\\encapsulamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7AEDD-1971-46CE-AE0E-16F7D4F379E9}|encapsulamento\\encapsulamento.csproj|solutionrelative:encapsulamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7AEDD-1971-46CE-AE0E-16F7D4F379E9}|encapsulamento\\encapsulamento.csproj|c:\\users\\guerr\\csharp\\encapsulamento\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7AEDD-1971-46CE-AE0E-16F7D4F379E9}|encapsulamento\\encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE7AEDD-1971-46CE-AE0E-16F7D4F379E9}|encapsulamento\\encapsulamento.csproj|c:\\users\\guerr\\csharp\\encapsulamento\\encapsulamento\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE7AEDD-1971-46CE-AE0E-16F7D4F379E9}|encapsulamento\\encapsulamento.csproj|solutionrelative:encapsulamento\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\encapsulamento\\encapsulamento\\Pessoa.cs",
+              "RelativeDocumentMoniker": "encapsulamento\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\encapsulamento\\encapsulamento\\Pessoa.cs",
+              "RelativeToolTip": "encapsulamento\\Pessoa.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:56:17.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\encapsulamento\\encapsulamento\\funcionario.cs",
+              "RelativeDocumentMoniker": "encapsulamento\\funcionario.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\encapsulamento\\encapsulamento\\funcionario.cs",
+              "RelativeToolTip": "encapsulamento\\funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:10:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\encapsulamento\\encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "encapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\encapsulamento\\encapsulamento\\Program.cs",
+              "RelativeToolTip": "encapsulamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:55:57.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
