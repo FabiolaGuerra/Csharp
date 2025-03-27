@@ -1,0 +1,15 @@
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\bin\Debug\net8.0\Sistema de Conta Bancária.exe
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\bin\Debug\net8.0\Sistema de Conta Bancária.deps.json
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\bin\Debug\net8.0\Sistema de Conta Bancária.runtimeconfig.json
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\bin\Debug\net8.0\Sistema de Conta Bancária.dll
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\bin\Debug\net8.0\Sistema de Conta Bancária.pdb
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.AssemblyInfoInputs.cache
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.AssemblyInfo.cs
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.csproj.CoreCompileInputs.cache
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.sourcelink.json
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.dll
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\refint\Sistema de Conta Bancária.dll
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.pdb
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\Sistema de Conta Bancária.genruntimeconfig.cache
+C:\Users\guerr\Csharp\Sistema de Conta Bancária\Sistema de Conta Bancária\obj\Debug\net8.0\ref\Sistema de Conta Bancária.dll
