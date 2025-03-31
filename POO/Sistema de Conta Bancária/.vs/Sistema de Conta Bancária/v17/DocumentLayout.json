@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\",
+  "WorkspaceRootPath": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\tipooperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\tipooperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\tipooperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\tipodeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\tipodeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\tipodeconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|c:\\users\\guerr\\csharp\\poo\\sistema de conta banc\u00E1ria\\sistema de conta banc\u00E1ria\\contaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63ADBAA-0A32-4831-B931-8A3BFD834A9A}|Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria.csproj|solutionrelative:sistema de conta banc\u00E1ria\\contaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\Program.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\Program.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\Program.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\Program.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:20:05.981Z",
               "IsPinned": true,
@@ -58,82 +58,76 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaBancaria.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\ContaBancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:37:42.167Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ContaCorrente.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaCorrente.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\ContaCorrente.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaCorrente.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\ContaCorrente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:21:37.898Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ContaPoupanca.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaPoupanca.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\ContaPoupanca.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaPoupanca.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\ContaPoupanca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T19:22:18.244Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TipoOperacao.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoOperacao.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoOperacao.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\TipoOperacao.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoOperacao.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoOperacao.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\TipoOperacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T00:03:41.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T00:03:41.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TipoDeConta.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoDeConta.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoDeConta.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\TipoDeConta.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoDeConta.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\TipoDeConta.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\TipoDeConta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:59:19.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T23:59:19.464Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ContaApp.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaApp.cs",
+              "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaApp.cs",
               "RelativeDocumentMoniker": "Sistema de Conta Banc\u00E1ria\\ContaApp.cs",
-              "ToolTip": "C:\\Users\\guerr\\Csharp\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaApp.cs",
+              "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Sistema de Conta Banc\u00E1ria\\Sistema de Conta Banc\u00E1ria\\ContaApp.cs",
               "RelativeToolTip": "Sistema de Conta Banc\u00E1ria\\ContaApp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T23:01:05.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T23:01:05.412Z"
             }
           ]
         }

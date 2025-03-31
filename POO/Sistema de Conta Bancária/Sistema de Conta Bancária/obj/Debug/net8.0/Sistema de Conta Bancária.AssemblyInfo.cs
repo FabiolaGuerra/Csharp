@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Conta Bancária")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795cce958d75d1217b6f9b088bb7a827739436fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e81847fc7b53111067960cd6d1f8438e2cf5087")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Conta Bancária")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Conta Bancária")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

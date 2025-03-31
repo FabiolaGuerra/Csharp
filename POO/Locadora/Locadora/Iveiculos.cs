@@ -8,5 +8,7 @@ namespace Locadora
 {
     internal interface Iveiculos
     {
+        public decimal CalcularValorAluguel(int dias);
+        
     }
 }

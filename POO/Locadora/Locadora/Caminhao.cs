@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Locadora
 {
-    internal class Caminhao
+    internal class Caminhao : Veiculos
     {
+        public Caminhao(string modelo, string marca, int ano, decimal valorBaseDiarioAlguel) : base(modelo, marca, ano, valorBaseDiarioAlguel)
+        {
+        }
+        public override decimal CalcularValorAluguel(int dias)
+        {
+            return (dias * ValorBaseDiariaAluguel) + ((dias * ValorBaseDiariaAluguel) * 0.2m);
+        }
     }
 }
