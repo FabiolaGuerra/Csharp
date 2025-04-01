@@ -10,11 +10,12 @@ namespace Locadora
     {
         public Carro(string modelo, string marca, int ano, decimal valorBaseDiarioAlguel) : base(modelo, marca, ano, valorBaseDiarioAlguel)
         {
+            
         }
 
         public override decimal CalcularValorAluguel(int dias)
         {
-            return dias * ValorBaseDiariaAluguel;
+            return dias * ValorBaseDiarioAluguel;
         }
 
        
