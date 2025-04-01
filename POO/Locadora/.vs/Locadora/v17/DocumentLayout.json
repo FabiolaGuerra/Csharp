@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|solutionrelative:locadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|c:\\users\\guerr\\csharp\\poo\\locadora\\locadora\\iveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|solutionrelative:locadora\\iveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|c:\\users\\guerr\\csharp\\poo\\locadora\\locadora\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|solutionrelative:locadora\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|c:\\users\\guerr\\csharp\\poo\\locadora\\locadora\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|solutionrelative:locadora\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|c:\\users\\guerr\\csharp\\poo\\locadora\\locadora\\iveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC92E557-6A87-4D5A-B8BB-62B1FCE52BCC}|Locadora\\Locadora.csproj|solutionrelative:locadora\\iveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,27 +44,27 @@
               "RelativeDocumentMoniker": "Locadora\\Program.cs",
               "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Program.cs",
               "RelativeToolTip": "Locadora\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T12:39:13.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Iveiculos.cs",
               "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Iveiculos.cs",
               "RelativeDocumentMoniker": "Locadora\\Iveiculos.cs",
               "ToolTip": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Iveiculos.cs",
               "RelativeToolTip": "Locadora\\Iveiculos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T12:53:15.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Veiculos.cs",
               "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Veiculos.cs",
               "RelativeDocumentMoniker": "Locadora\\Veiculos.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Carro.cs",
               "RelativeDocumentMoniker": "Locadora\\Carro.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Caminhao.cs",
               "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Caminhao.cs",
               "RelativeDocumentMoniker": "Locadora\\Caminhao.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\guerr\\Csharp\\POO\\Locadora\\Locadora\\Moto.cs",
               "RelativeDocumentMoniker": "Locadora\\Moto.cs",

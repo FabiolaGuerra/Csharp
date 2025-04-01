@@ -25,6 +25,7 @@
 
             while (true)
             {
+                
                 Console.WriteLine("Bem vindo a Moved");
                 Console.WriteLine("-------------------");
                 Console.WriteLine("Escolha uma opção: \n1 Cadastrar Veículo \n2 Alugar Veículo \n3 Sair");
@@ -63,6 +64,10 @@
                         Console.WriteLine("Tipo de veículo inválido");
                     }
                     Console.WriteLine("Veículo cadastrado com sucesso!");
+                    Console.WriteLine("Precione enter para continuar");
+                    Console.ReadLine();
+                    Console.Clear();
+
                 }
                 else if (opcao == 2) //alugar carro
                 {
@@ -76,9 +81,9 @@
                             continue;
                         }
                         Console.WriteLine("Escolha seu carro:");
-                        foreach (Carro carro in listCarros)
+                        for(int i = 0; i < listCarros.Count; i++)
                         {
-                            Console.WriteLine(carro.ToString());
+                            Console.WriteLine($"{i} - {listCarros[i].Modelo}");
                         }
                         int indiceCarroEscolhido = int.Parse(Console.ReadLine());
                         Console.WriteLine("Por favor, informe por quantos dias deseja alugar o Carro:");
@@ -87,6 +92,9 @@
                         Console.WriteLine($"Parabéns, voce alugou um {carroEscolhido.ToString()}");
                         Console.WriteLine($"Total a pagar: {carroEscolhido.CalcularValorAluguel(quantidadeDeDias)}");
                         listCarros.RemoveAt(indiceCarroEscolhido);
+                        Console.WriteLine("Precione enter para continuar");
+                        Console.ReadLine();
+                        Console.Clear();
                     }
                     else if (tipo == 2)
                     {
@@ -96,9 +104,9 @@
                             continue;
                         }
                         Console.WriteLine("Escolha a moto que deseja alugar:");
-                        foreach (Moto moto in listMotos)
+                        for(int i = 0;i < listMotos.Count;i++)
                         {
-                            Console.WriteLine(moto.ToString());
+                            Console.WriteLine($"{i}-{listMotos[i].Modelo}");
                         }
                         int indiceMotoEscolhida = int.Parse(Console.ReadLine());
                         Console.WriteLine("Por favor, informe por quantos dias deseja alugar a Moto:");
@@ -112,13 +120,13 @@
                     {
                        if (listCaminhao.Count == 0)
                         {
-                            Console.WriteLine("Sem caminhoões disponiveis para locação");
+                            Console.WriteLine("Sem caminhões disponiveis para locação");
                             continue;
                         }
                         Console.WriteLine("Escolha o Caminhão que deseja alugar:");
-                        foreach (Caminhao caminhao in listCaminhao)
+                        for( int i = 0; i < listCaminhao.Count;i++) 
                         {
-                            Console.WriteLine(caminhao.ToString());
+                            Console.WriteLine($"{i}-{listCaminhao[i].Modelo}");
                         }
                         int indiceCaminhaoEscolhido = int.Parse(Console.ReadLine());
                         Console.WriteLine("Por favor, informe por quantos dias deseja alugar o Caminhão:");
